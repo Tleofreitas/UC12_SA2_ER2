@@ -10,5 +10,10 @@ namespace Cadastro_Pessoa.Classes
 
         public bool ?endComercial { get; set;
         }
+
+        public static implicit operator Endereco(PessoaJuridica v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
