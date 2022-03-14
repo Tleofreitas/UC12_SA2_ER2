@@ -27,13 +27,13 @@ namespace Cadastro_Pessoa.Classes
             DateTime dataConvertida;
             if (DateTime.TryParse(dataNasc, out dataConvertida))
             {
-                Console.WriteLine($"{dataConvertida}");
+                // Console.WriteLine($"{dataConvertida}");
                 
                 DateTime dataAtual = DateTime.Today;
 
                 double anos = (dataAtual - dataConvertida).TotalDays / 365;
 
-                if (anos >= 18)
+                if (anos >= 18 && anos < 120)
                 {
                     return true;
                 }

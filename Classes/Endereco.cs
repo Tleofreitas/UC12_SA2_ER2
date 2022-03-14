@@ -4,11 +4,11 @@ namespace Cadastro_Pessoa.Classes
     {
         public string ?Cep { get; set; }
 
-        public  int ?Numero { get; set; }
+        public  int Numero { get; set; }
 
         public string ?Complemento { get; set; }
 
-        public bool ?endComercial { get; set;
+        public bool endComercial { get; set;
         }
 
         public static implicit operator Endereco(PessoaJuridica v)

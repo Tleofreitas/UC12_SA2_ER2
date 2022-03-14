@@ -1,0 +1,5 @@
+D:\Protegido\Cursos\Full-Stack--SENAI\Back End\UC12\SA2\Cadastro Pessoa\UC12_SA2_ERs\obj\Debug\net5.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\Protegido\Cursos\Full-Stack--SENAI\Back End\UC12\SA2\Cadastro Pessoa\UC12_SA2_ERs\obj\Debug\net5.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Protegido\Cursos\Full-Stack--SENAI\Back End\UC12\SA2\Cadastro Pessoa\UC12_SA2_ERs\obj\Debug\net5.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\Protegido\Cursos\Full-Stack--SENAI\Back End\UC12\SA2\Cadastro Pessoa\UC12_SA2_ERs\obj\Debug\net5.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\Protegido\Cursos\Full-Stack--SENAI\Back End\UC12\SA2\Cadastro Pessoa\UC12_SA2_ERs\obj\Debug\net5.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
