@@ -38,7 +38,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 Selecione a versão de acordo com seu OS.
 Após ter feito o download, siga as instruções exibidas no próprio link.
 
-<img src="img/NetCore.png" >
+<img src="img/NetCore.PNG" >
 
 ---
 ## 📦️ *Como executar o programa*
